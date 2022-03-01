@@ -1,0 +1,478 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble remonstrance of the Commissioners of the Generall Assembly to the Honourable and high Court of Parliament now assembled. Together with the ansvver of the Estates of Parliament to the said remonstrance.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02201</idno>
+            <idno type="STC">Wing C4229AB</idno>
+            <idno type="STC">ESTC R173934</idno>
+            <idno type="EEBO-CITATION">51784456</idno>
+            <idno type="OCLC">ocm 51784456</idno>
+            <idno type="VID">174872</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02201)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174872)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2704:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble remonstrance of the Commissioners of the Generall Assembly to the Honourable and high Court of Parliament now assembled. Together with the ansvver of the Estates of Parliament to the said remonstrance.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+                  <author>Ker, A.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, print show-through with loss of text.</note>
+                  <note>Signed: Alexander Ker.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174872:1" rendition="simple:additions"/>
+            <pb facs="tcp:174872:1" rendition="simple:additions"/>
+            <pb facs="tcp:174872:2"/>
+            <pb facs="tcp:174872:2" rendition="simple:additions"/>
+            <p>THE HUMBLE REMONSTRANCE OF THE COMMISSIONERS OF The GENERALL
+ASSEMBLY, To the Honourable and high Court of Par<g ref="char:EOLhyphen"/>liament now aſſembled:
+TOGETHER WITH The ANSVVER of the ESTATES of PARLIAMENT To the ſaid
+REMONSTRANCE.</p>
+            <p>
+               <hi>EDINBVRGH:</hi> Printed by <hi>Evan Tyler,</hi> Printer to the
+Kings moſt Excellent Majeſtie. 1647.</p>
+         </div>
+         <div type="license_to_print">
+            <pb facs="tcp:174872:3"/>
+            <opener>
+               <dateline>Edinburgh 
+<date>12 February. 1647.</date>
+               </dateline>
+            </opener>
+            <p>THe Commiſsioners of the Generall Aſſem<g ref="char:EOLhyphen"/>bly Ordaines the
+Remonſtrance preſented to the Honourable Eſtates of Parliament, Toge<g ref="char:EOLhyphen"/>ther
+with the Parliaments Anſwer thereunto, To be forthwith Printed.</p>
+            <closer>
+               <signed>A. Ker.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="remonstrance">
+            <pb n="1" facs="tcp:174872:3"/>
+            <head>The humble Remonſtrance of the Commiſsion of the Generall
+Aſſembly; Vnto the Honourable and high Court of Parliament.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is unto us the ſervants of Jeſus Chriſt, and your
+ſervants for his ſake, no ſmall conſolation; That whileſt this Land
+lies afflicted, and almoſt fainting under a burden of many evils, you are
+aſſembled for her help; Promiſing unto our ſelves, that as in your own
+hearts ye do bewaile its miſery before God, So you will gladly entertaine the
+repreſentati<g ref="char:EOLhyphen"/>on thereof from all its lovers; and from the ſenſe of your
+intereſt and truſt, with ſpirits as large as your places, endeavour to
+repaire our ruines and build up our breaches; Therefore, as many Synods and
+Presbyteries do now make their humble addreſſe unto your Lordſhips, in
+their ſeverall ſupplications, concerning the intereſts of Religion and of
+the<pb n="2" facs="tcp:174872:4"/>Kingdome, So are we bold to poure forth our pre<g ref="char:EOLhyphen"/>ſons
+thoughts and deſires into your boſome, hoping that as they flow from no
+other fountain th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the diſcharge
+of our conſciences and a purpoſe no doe good, So your Lordſhips will
+allow them that ac<g ref="char:EOLhyphen"/>ceptation that beſeems the juſtice and wiſdome of ſo
+High and Honourable a Court, and improve the ſame as farre as you ſee
+reaſon, for the honour of God, and ſafety both of Church and State. If we
+had forgotten the ſad effects of the Lords former indignation, or were not
+ſenſible of the preſent tokens of his wrath, we were more then ſtupide;
+There was a time wherein the Lord made us flee be<g ref="char:EOLhyphen"/>fore the Enemy, and made us
+drunk with the wine of aſtoniſhment, not finding either hearts to reſolve
+or hands to execute and put in practice: Neither was the Peſtilence leſſe
+violent in our cities then the ſword in the fields; Many thouſands have
+fallen in our land by the arrows of the Almighty and fury of the moſt high,
+and yet his wrath is not turned away but his hand ſtretched out ſtill: The
+flame of his in<g ref="char:EOLhyphen"/>dignation doth again burn hotly in ſome of our ci<g ref="char:EOLhyphen"/>ties, and a
+conſiderable part of our Country groanes &amp; languiſhes without help,
+under all the cruelty of a barbarous Enemy, who makes no other uſe of your
+offer of pardon, then to deſpiſe your power, and to waxe more inſolent in
+acting of their miſchievous deſignes, which reach not only unto our Lives
+and Liberties, but unto our Religion and Souls them<g ref="char:EOLhyphen"/>ſelves; how ſore is the
+Lord diſpleaſed when he ſuffers Antichriſt to enter in our borders, and
+his emiſſaries to lead our brethren captive into Babylon<pb n="3" facs="tcp:174872:4"/>and ſet up the Maſſe amongſt them? and what can we take this
+for, but a ſad prognoſtication of enſu<g ref="char:EOLhyphen"/>ing darkneſſe to thoſe who
+have not walked worthy of the light, and that the Lord threatens to depart from
+his Temple? and is it not an eminent token of his anger, that many who have
+made themſelves drunk with the bloud, and rich with the ſpoyles of
+thouſands of our dear Brethren, after that they were deſtinate unto death
+by your ſelves, have yet eſcaped the hand of juſtice, and are reſtored
+unto their Lives and Fortunes, unto the ſtrengthening of the Malignant party,
+and diſcouraging the hearts and weakening the hands of all the well-affected
+in the land? It is bitter as death to live with theſe that have ſlain the
+Lords people, and to hear them boaſt of their cruelty, and rejoyce in their
+iniquity, every day inſulting over the Cauſe of God, and deſpiſing and
+ſtudying to tread under-foot all the lovers of the ſame. Neither can we
+look upon the inſolen<g ref="char:EOLhyphen"/>cies and oppreſſion of many in our Armies, under
+which not a few in our Land groans; But as upon the rod of the Lords furie,
+turning the meanes of our health and preſervation unto a cup of vineger and
+gall that ſets the teeth on edge: Thoſe calami<g ref="char:EOLhyphen"/>ties, and whatſomever
+miſeries beſides do afflict us, can iſſue from no other fountain then
+from that de<g ref="char:EOLhyphen"/>luge of profanitie that hath covered the face of the Land, which
+accreſes unto a great height of guilti<g ref="char:EOLhyphen"/>neſſe, becauſe we have ſinned
+in the day of the Goſpel, and deſpiſed the Oath of God, neither regarding
+our Covenant, nor the operation of his hands, in which he hath made himſelf
+glorious in<pb n="4" facs="tcp:174872:5"/>the midſt of us, in many moſt eminent works
+both of Mercy and of Juſtice.</p>
+            <p>We acknowledge that the work of Reformation hath not beene without
+plentie of moſt gracious and comfortable fruits in many ſoules throughout
+the Land, who are for a teſtimony unto the trueth, and for a name of joy and
+praiſe unto the moſt High; Yet we cannot but bemone the power of ungodlines
+that prevailes and breaks forth in many groſſe ſins, unto the violation
+of our Covenant, the reproach of our Cauſe, and the great diſhonour of the
+holy One of Iſrael our Saviour, whoſe mer<g ref="char:EOLhyphen"/>cies towards us calls upon us to
+be holy in all man<g ref="char:EOLhyphen"/>ner of converſation, and to bee fruitfull in every good
+work, that we may adorne the Goſpel of Je<g ref="char:EOLhyphen"/>ſus Chriſt our Lord, and not
+make his enemies to blaſpheme. Therefore knowing all other cures to be vain
+without the ſtudie of Reformation, We doe from the unfained zeal of your
+proſperitie and peace, in the bowels of the Lord Jeſus Chriſt, by whoſe
+blood we have beene redeemed, in much tender and humble affection, with tears,
+exhort you by all your Oaths and Obligations unto God, by all his mercies and
+deliverances towards you, by all your zeal of his Honour and love to Religion
+and Countrey, that you will in all your converſation, ſtudy Sobrietie,
+Righteouſneſſe and Holineſſe, and ſo to walk in the Goſpel, that
+it may be known that the Son of God raigns in your hearts, when you not only
+hold forth his vertues in your ſelves, but diſ<g ref="char:EOLhyphen"/>countenance every profane
+perſon, and cheriſh and embrace all thoſe that bear the Image of God; 
+<pb n="5" facs="tcp:174872:5"/>The example of your good converſation cannot but be of
+great force to all the Land, and nothing will contribute more for
+repreſſing of ſin or eſtabliſhing of holineſſe, then the
+precedencie of great ones, Or<g ref="char:EOLhyphen"/>dering all things that concerns themſelves and
+their followers and domeſticks according to the Cove<g ref="char:EOLhyphen"/>nant; as is the frame of
+mans ſpirits and tennor of their converſation in private, ſuch is their
+deport<g ref="char:EOLhyphen"/>ment and carriage in publike actions. We do well know that nothing will
+be ſo effectuall for enabling your Honours in the integritie of your
+ſpirits, with much affection and love one towards another with<g ref="char:EOLhyphen"/>out emulation
+or ſelf-ſeeking, faithfullie and zea<g ref="char:EOLhyphen"/>louſlie to act publike counſels
+and reſolutions, then for each of you to walk with God, who is the Fa<g ref="char:EOLhyphen"/>ther of
+light, and the Author of every good gift and perfect donation. But it is
+cheifly as you are cloathed with Authoritie and aſſembled in Parlia<g ref="char:EOLhyphen"/>ment,
+that we do now make addreſſe unto your Ho<g ref="char:EOLhyphen"/>nours, beſeeching you by him
+who ſtands in the aſ<g ref="char:EOLhyphen"/>ſemblie of gods, That as your Progenitors and you
+have made many pious and laudable Acts for pu<g ref="char:EOLhyphen"/>niſhing of vice, and advancing
+of vertue, So ye will ſee carefully to the execution of the ſame; And
+becauſe vice is become common and ſtrong, that you will lay it
+ſeriouſlie to heart, and beſtirre your ſelves in more then an ordinarie
+way, in thinking upon, and executing all the beſt expedients for ſtopping
+the ſluces of iniquitie and impiety, and ad<g ref="char:EOLhyphen"/>vancing Righteouſneſſe and
+Religion; We know no ſervice better beſeeming your place, and more worthy
+of your paines, that will be more acceptable<pb n="6" facs="tcp:174872:6"/>unto God, or more
+profitable for the Common<g ref="char:EOLhyphen"/>wealth. next unto Reformation and the Rudie of Pictie
+and Godlineſſe amongſt out ſelves, We con<g ref="char:EOLhyphen"/>ceive it moſt neceſſary
+for out good, to hold fat the Union with our Brethren of <hi>England;</hi> As
+the attaining and eſtabliſhing of it was long ſtudied by the lovers of
+Trueth and Peace, as that ſubſidie that was like to contribute moſt for the
+laſting happi<g ref="char:EOLhyphen"/>neſſe of both Kingdoms, in regard of all their
+inte<g ref="char:EOLhyphen"/>reſts, So hath the diſſolving of this beene, and is the great
+deſigne of all the Malignant wits both here and abroad; Conceiving it the
+ſureſt way to raiſe their hopes and ruine our happineſſe, by dividing
+us aſunder and daſhing us one againſt another, which wee are ſure that
+you abhorre, and will ſtudy to avoid, no leſſe in your actions then we do
+in our de<g ref="char:EOLhyphen"/>ſires: And that as hithertills; you have with much wiſdome and
+faithfulneſſe, carefully ſhunned every thing that might produce
+ſuſpitions or foſter Jealou<g ref="char:EOLhyphen"/>ſies, and beene deficient in nothing that
+might ſtrengthen the confidence of the Engliſh Nation in the perſwaſion
+of your affection and integritie to them-wards; So you will ſtill from the
+ſame wiſ<g ref="char:EOLhyphen"/>dome and faithfulneſſe, hold faſt the League and Covenant
+betwixt the Kingdomes, as that which is moſt conduceable for the ſafetie
+and ſecuritie of both; And that you will by all faire and peaceable meanes
+travell with the Parliament of <hi>England,</hi> for promoving of the work of
+Uuniformitie, by eſta<g ref="char:EOLhyphen"/>bliſhing of the government of the Kirk, and all the
+ordinances of the Son of God in <hi>England</hi> in their puritie and
+integritie, that all the clouds of error<pb n="7" facs="tcp:174872:6"/>which are there, may
+be ſcattered, and the beauty of the trueth ſhine brightly in both Lands.
+And conceiving it to conduce much for that work, and for the accompliſhing
+our happineſſe, that His Ma<g ref="char:EOLhyphen"/>jeſty ſhould joyn therein, Therefore as we
+pour forth our prayers unto God for him on that behalfe, So we hope that your
+Honours will not be deficient in continuing to deale with him to ſubſcribe
+the League and Covenant, that he and his Subjects be<g ref="char:EOLhyphen"/>ing of one minde, he may
+be happy in his Govern<g ref="char:EOLhyphen"/>ment, and they in their obedience. And though the Peace
+with the Rebels in the fruits and effects there<g ref="char:EOLhyphen"/>of, hath neither anſwered
+your expectations, nor put an end to the Kingdoms miſeriers, yet we ſhall
+only deſire, that all ſuch as have been involved in the Rebellion may be
+keeped from places of publike truſt, whether Civill or Military; And that you
+will take ſuch courſe with them, in moderating their power, and regulating
+their carriage, as that it may be known, that you put a difference betwixt
+thoſe that have ſerved God and their Countrey, and thoſe that have
+oppoſed him in the publike Cauſe; And that your peace may be peace indeed,
+and not the foundation of a more laſting Warre: If it were not tedious, we
+could lay it before your Honours what a height of arrogancy, and diſdain of
+authority both Civil and Eccleſiaſtick, appears in the carriage and
+expreſſions of moſt of theſe men, &amp; that not in cor<g ref="char:EOLhyphen"/>ners abroad,
+but publikely in the chief Cities of the Kingdome, and under your own eyes; And
+it is yet more grievous, that ſuch ſhould be familiarly con<g ref="char:EOLhyphen"/>verſed with
+and countenanced by theſe who pro<g ref="char:EOLhyphen"/>feſſe<pb n="8" facs="tcp:174872:7"/>themſelves to
+be for the Lord and his Cauſe, which evil is ſo increaſed, that
+excommunicate per<g ref="char:EOLhyphen"/>ſons themſelves are not avoided.</p>
+            <p>It wounds us deeply to behold the ſufferings, and hear the cryes
+and complaints of our Brethren in the Province of <hi>Argyle,</hi> and the
+places thereabouts, who have their bloud ſhed, as water ſpilt upon the
+ground, their eſtates ruined, their houſes burnt with fire, and the remnant
+that is left expoſed unto the ſnares of Antichriſt, and all the
+miſeries of naked<g ref="char:EOLhyphen"/>neſſe and famine: We need not put your Lordſhips in
+minde what hath been their carriage &amp; conſtancy in the publike Work, nor
+what is your obligation unto them by vertue of your Covenant, Nor how dangerous
+the ſeating of ſuch an Enemy there may be, both unto our Religion and our
+Countrey, But we beſeech you by the Lord Jeſus Chriſt, and by the love of
+the Spirit, that ye will apply your ſelves ſeriouſly, and beſtirre your
+ſelves diligently for the help and relief of that poore people, whoſe
+conditi<g ref="char:EOLhyphen"/>ons pleads for it at your hands, both as an Act of Juſtice and an Act
+of Mercy. We do alſo lay be<g ref="char:EOLhyphen"/>fore you the eminent dangers, and low condition
+of our Brethren in <hi>Ireland,</hi> who are neer to be ſwallow<g ref="char:EOLhyphen"/>ed up of
+their adverſaries: Perſwading our ſelves, that you will extend your
+utmoſt endeavours with the Parliament of <hi>England,</hi> for their tymous
+aſſi<g ref="char:EOLhyphen"/>ſtance and relief. And although we do acknow<g ref="char:EOLhyphen"/>ledge, not onely the
+courage, but alſo the moderati<g ref="char:EOLhyphen"/>on and piety of many worthies in our Armies,
+who not only walk as good Souldiers, but as Souldiers of Jeſus Chriſt, unto
+their own commendation and<pb n="9" facs="tcp:174872:7"/>our hearts joy, whoſe
+deſervings we make no queſti<g ref="char:EOLhyphen"/>on will be both valued and rewarded by you
+ac<g ref="char:EOLhyphen"/>cording to their worth; yet we cannot but regrate, that many in our Armies
+walke looſly and diſorder<g ref="char:EOLhyphen"/>ly, ryotouſly ſpending what they violently
+ſpoile, and making the lives of the Commons bitter unto them by their
+inſolencies and oppreſſions, which are carried with ſo high an hand,
+that without the in<g ref="char:EOLhyphen"/>terpoſition of your authority, help cannot be found: And
+therefore we are confident that your care ſhall reach unto this alſo, that
+the poore be no more op<g ref="char:EOLhyphen"/>preſſed, nor the Goſpel, and our profeſſion
+reproach<g ref="char:EOLhyphen"/>ed by the debordings of ſuch: And we alſo truſt that your
+Lordſhips will ſo diſpoſe of common burdens, that friends have no
+cauſe to complaine of unequall meaſure amongſt themſelves, much
+leſſe that Ene<g ref="char:EOLhyphen"/>mies are in a better condition then they, and that they are
+overcharged when the other not only retain their ſpoils but live in
+ſuperfluities. And becauſe the preſervation of the Judicatories of the
+Kirk in their integrity and ſtrength is of a great conſequence, unto the
+ſuppreſſing of iniquity and ungodlineſſe, and ad<g ref="char:EOLhyphen"/>vancing
+righteouſneſſe and piety, We deſire that your Lordſhips will
+carefully ſee unto the keeping of their authority inviolable, againſt all
+the inſolen<g ref="char:EOLhyphen"/>cies of unreaſonable men: Our Religion and Liberty are
+bleſſings of excellent &amp; incomparable worth, in eſtabliſhing of
+which unto us, the Lord hath march<g ref="char:EOLhyphen"/>ed in as glorious and ſtately way of
+providence over all the mountains of oppoſition, as any eye hath ſeen for
+many hundred of yeers paſt: And it does not eſcape your knowledge what hath
+been the deſignes<pb n="10" facs="tcp:174872:8"/>and endeavours of adverſaries from the
+begining againſt the ſame; And though many of them be cut ſhort of their
+power, that they can no more openly oppoſe, yet have they not deſiſted
+from their poli<g ref="char:EOLhyphen"/>cy ſecretly to undermine; And there is no leſſe danger in
+the miſteries of iniquity then acts of hoſti<g ref="char:EOLhyphen"/>lity. When we conſider how
+many of thoſe who were once open Enemies are brought unto our bo<g ref="char:EOLhyphen"/>ſome as
+ſeeming friends, we cannot but profeſſe our fears, and as the watchman of
+the houſe of Iſrael forwarne you of the ſame; Earneſtly beſeeching
+you, that you will minde the ſame thing, and as one man from the unfained
+zeale of the honour of God, and with much love and affection one towards
+another, ſtudy the preſervation of thoſe precious bleſſings, That not
+only this, but the ſucceeding generations may be happy in the enjoying of the
+ſame.</p>
+            <closer>
+               <signed>A. Ker.</signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <pb n="11" facs="tcp:174872:8"/>
+            <head>The Parliaments Answer.</head>
+            <opener>
+               <dateline>Edinburgh, 
+<date>11 February. 1647.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Eſtates of Parliament now conveened in this ſixth
+Seſſion of the firſt triennall Parliament, Having ſeriouſlie
+conſidered the Remonſtrance of the Commiſſioners of the Generall
+Aſſemblie preſented to them; Do with all thankfull acknowledgement
+receive the pi<g ref="char:EOLhyphen"/>ous and ſeaſonable admonitions and exhortations therein
+contained, and return to their particular de<g ref="char:EOLhyphen"/>ſires this following
+anſwer.</p>
+            <p n="1">1. That they do hereby Ordain all Acts already paſſed
+for puniſhing of vice and advancing of ver<g ref="char:EOLhyphen"/>tue, to ſtand in force, and be
+put to due execution, Recommending the ſame to all the Miniſters of
+ju<g ref="char:EOLhyphen"/>ſtice whom it concerns. And that they are yet ready to enact any further
+new Laws and Ordinances ne<g ref="char:EOLhyphen"/>ceſſary for that purpoſe, having appointed a
+Com<g ref="char:EOLhyphen"/>mittee for Acts and Overtures to meet with M. <hi>James Robertoun</hi> the
+Juſtice Depute at all conveni<g ref="char:EOLhyphen"/>ent occaſions, for receiving and
+conſidering the de<g ref="char:EOLhyphen"/>ſires and Overtures of the ſaid Commiſſioners, and
+to prepare a report of their opinions therein to the Parliament with all
+diligence.</p>
+            <p n="2">2. That they have beene ever carefull to preſerve that
+Band of Union between the Kingdomes, and to proſecute the work of Uniformity
+according to the Covenant, ſtill reſolving zealouſly to ſtudy the
+ſame. That they have yet again made their humble addreſſes to His
+Majeſtie for ſigning the Covenant,<pb n="12" facs="tcp:174872:9"/>and ſatisfiing the
+deſires of his Parliaments of both Kingdomes; All which their inſtructions
+to their Commiſſioners at <hi>London</hi> and <hi>Newcaſtle,</hi> and
+their Letters to the Parliament of <hi>England</hi> do ſufficiently
+expreſſe: And what further is to be done in relation to theſe
+particulars, ſhall bee communicate to the Commiſſion from time to time,
+that they may joyntly concur according to their place and vocati<g ref="char:EOLhyphen"/>on for
+proſecuting thereof.</p>
+            <p n="3">3. Touching the particulars concerning theſe per<g ref="char:EOLhyphen"/>ſons
+brought off the rebellion, by the Generall Ma<g ref="char:EOLhyphen"/>jor thereunto warranted; That the
+publike faith ſo gi<g ref="char:EOLhyphen"/>ven unto them is not to be violated: But for the better
+ſecuring the peace &amp; quiet of the Kingdoms, Theſe Perſons brought off
+the rebellion are hereby ap<g ref="char:EOLhyphen"/>pointed to give ſuch further aſſurance of
+their good and regular behaviour in time coming, and for kee<g ref="char:EOLhyphen"/>ping the Peace as
+is conforme to the former Lawes and Practiſes; And in the meane time, that
+ſuch of themand others acceſſary to the rebellion, and under cenſure of
+Church and State, whom the Commit<g ref="char:EOLhyphen"/>tee thereunto appointed ſhall think fit, be
+comman<g ref="char:EOLhyphen"/>ded off Town, And that an Act &amp; Proclamation be drawn by that
+Committee, and ſpeedily expedited and prepared for the Parliament to that
+effect: Or<g ref="char:EOLhyphen"/>daining further, that the ſaids Perſons brought off the
+rebellion, and any others guilty of the crimes mentioned in the firſt
+Claſſe of the Act at S. <hi>An<g ref="char:EOLhyphen"/>drews,</hi> ſhal not be admitted to ſit
+in any publike judi<g ref="char:EOLhyphen"/>catories, nor enjoy and exerce any offices or places of
+truſt Civill or Military, during the time of theſe troubles, and longer
+during the pleaſure of the Par<g ref="char:EOLhyphen"/>liament<pb n="13" facs="tcp:174872:9"/>without prejudice to
+perſons who have heri<g ref="char:EOLhyphen"/>table offices, to nominate and appoint, by the advice
+of Parliament, Committee of Eſtates, or Secret Counſell, fit perſons,
+againſt whom there is no juſt exception, to be their Deputes in theſe
+offices. And it is alſo hereby declared, that theſe Perſons brought off
+the rebellion, are not to be in a better condition then other Subjects, But
+that they are and ſhall be lyable and ſubject in pay<g ref="char:EOLhyphen"/>ment of all Loans,
+Taxes, Monethly Maintenance, and of their proportions for Leavies of Foot and
+Horſe, at the rate and prices ſet down by Acts of Parliament, or Committee
+of Eſtates, or Committees of Warre in Shires where they have intereſt
+<hi>reſpectivè;</hi> And of all other publike burdens, impoſitions,
+and dueties what<g ref="char:EOLhyphen"/>ſomever, for all years bygone and in time coming, as fully
+and in the ſame manner as any other perſon is or hath been ſubject
+thereunto.</p>
+            <p n="4">4. That all the former Lawes and Ordinances againſt
+excommunicate Perſons, are hereby appointed to ſtand in full force and
+vigour, Recommending to every one whom it concerns, to put the ſame to due
+execution: And what ſhall bee found further neceſſary from the
+Parliament, to make that dreadfull ordinance of God, ſenſible to ſuch
+obſtinate offenders, And to have due re<g ref="char:EOLhyphen"/>gard and reverence from all, is to be
+conſidered by the ſaid Committee, to whom the Overtures of the
+Com<g ref="char:EOLhyphen"/>miſſion to that purpoſe are referred, and after return of their
+report, The Parliament will take the ſame to ſpe<g ref="char:EOLhyphen"/>ciall conſideration.</p>
+            <p n="5">5. That they are very ſenſible of the diſtreſſes
+of the province of <hi>Argyle,</hi> and have already provided ſome meanes for
+their preſent ſubſiſtance and relief, Reſol<g ref="char:EOLhyphen"/>ving<pb n="14" facs="tcp:174872:10"/>ſtill to take further courſe for their help and ſuc<g ref="char:EOLhyphen"/>cour, and to
+proſecute the War againſt the Rebells, not only there, but in all the parts
+of the Kingdome.</p>
+            <p n="6">6. That the buſineſſe of <hi>Ireland,</hi> is
+carefully recom<g ref="char:EOLhyphen"/>mended to the grand Committee; wherein, after the reſult of
+their conſultations ſhall be returned, they are to take ſome ſpeedy and
+effectuall courſe accordingly.</p>
+            <p n="7">7. That they judge it moſt juſt and reaſonable, that
+the Judicatories of the Kirk bee preſerved in their inte<g ref="char:EOLunhyphen"/>grity and authority,
+That inſolencies againſt them be exemplarly puniſhed, And that particular
+ordinances be drawn for that purpoſe, which is hereby recommended to the
+ſaid Committee of Overtures.</p>
+            <p n="8">8. That they have recommended to the Generall Of<g ref="char:EOLhyphen"/>ficers, to
+puniſh the inſolencies and diſorders of Souldi<g ref="char:EOLhyphen"/>ers committed before this
+time; And for preventing the like hereafter, They are to conſider the report
+of the great Committee, and to take courſe how the Officers that are to have
+command, may give aſſurance for re<g ref="char:EOLhyphen"/>ſtraining and redreſſing ſuch
+inſolencies and diſorders for time to come.</p>
+            <p>And the Eſtates of Parliament hereby Statute and Ordaine, That
+the partie that Ordinances, Declara<g ref="char:EOLhyphen"/>tions and Anſwers above-expreſſed,
+ſhall have the ſtrength and authority of Acts, Declarations; Anſwers, and
+Ordinances of Parliament conforme to the
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ors and
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <hi>reſpective.</hi>
+            </p>
+            <closer>
+               <signed>Alex. Gibſone Cler. Regiſt.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174872:11"/>
+            <pb facs="tcp:174872:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
